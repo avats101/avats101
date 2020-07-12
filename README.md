@@ -1,4 +1,4 @@
-###Hi there 👋 <br>
+<h1>Hi there 👋 <br></h1>
 <hr>
 <p align="center">
   <img src="Aryan.png" width="200px">
