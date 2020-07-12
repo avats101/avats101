@@ -1,10 +1,15 @@
-### Hi there 👋
-
-Hi there wave
-I'm Irena and I'm a Software Testing Engineer
-I’m currently exploring all things automation in testing
-I'm also experimenting with web development
-
-Find me on the Internet:
-Twitter | LinkedIn | Portfolio 
-
+<p align="center">
+  <img src="Aryan.png" width="200px">
+  <br>
+  <samp>
+    Hi there 👋 <br>
+    I'm Aryan and currently an Undergraduate Student in India pursuing Computer Science<br>
+    I’m currently exploring all things in Argumented Reality,Deep-Learning<br>
+    I have experience in UI/UX ,Front-End Development ,Machine-Learning <br>
+    <br>
+    Find me on the Internet: <br>
+    <a href="https://twitter.com/avats101">Twitter</a> | 
+    <a href="https://www.linkedin.com/in/aryan-vats-a2128a18b/">LinkedIn</a> |
+    <a href="https://avats101.github.io/aboutme/">Portfolio</a> <br> 
+  </samp>
+</p>
