@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Aryan.png" width="200px">
+  <img src="Aryan.png" style="width:200px">
   <hr>
   <br>
   <samp>
