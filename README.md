@@ -1,6 +1,4 @@
 <p align="center">
-  <img src="Aryan.png" width="200px">
-  <hr>
   <br>
   <samp align="center">
     Hi there 👋 <br>
