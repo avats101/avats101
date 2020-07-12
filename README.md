@@ -3,7 +3,7 @@
   <br>
   <samp>
     Hi there 👋 <br>
-    I'm Aryan and currently an Undergraduate Student in India pursuing Computer Science<br>
+    I'm Aryan,an Undergraduate Student pursuing Computer Science in India <br>
     I’m currently exploring all things in Argumented Reality,Deep-Learning<br>
     I have experience in UI/UX ,Front-End Development ,Machine-Learning <br>
     <br>
