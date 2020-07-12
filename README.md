@@ -1,7 +1,7 @@
 <h1>Hi there 👋 <br></h1>
 <hr>
 <p align="center">
-  <img src="Aryan.png" width="200px">
+  <img src="https://raw.githubusercontent.com/avats101/avats101/master/Aryan.png" width="200px">
   <br>
   <samp align="center">
     I'm Aryan,an Undergraduate Student pursuing Computer Science in India. <br>
