@@ -2,7 +2,7 @@
   <img src="Aryan.png" style="width:200px">
   <hr>
   <br>
-  <samp>
+  <samp align="center">
     Hi there 👋 <br>
     I'm Aryan,an Undergraduate Student pursuing Computer Science in India. <br>
     I’m currently exploring all things in Argumented Reality,Deep-Learning.<br>
@@ -12,5 +12,5 @@
     <a href="https://twitter.com/avats101">Twitter</a> | 
     <a href="https://www.linkedin.com/in/aryan-vats-a2128a18b/">LinkedIn</a> |
     <a href="https://avats101.github.io/aboutme/">Portfolio</a> <br> 
-  </samp>
+  </samp align="center">
 </p>
