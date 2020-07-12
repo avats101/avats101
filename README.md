@@ -1,8 +1,9 @@
+###Hi there 👋 <br>
+<hr>
 <p align="center">
   <img src="Aryan.png" width="200px">
   <br>
   <samp align="center">
-    Hi there 👋 <br>
     I'm Aryan,an Undergraduate Student pursuing Computer Science in India. <br>
     I’m currently exploring all things in Argumented Reality,Deep-Learning.<br>
     I have experience in UI/UX ,Front-End Development ,Machine-Learning. <br>
