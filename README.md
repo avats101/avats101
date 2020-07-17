@@ -6,7 +6,7 @@
   <samp align="center">
     I'm Aryan,an Undergraduate Student pursuing Computer Science in India. <br>
     I’m currently exploring all things in Argumented Reality,Deep-Learning.<br>
-    I have experience in UI/UX ,Front-End Development ,Machine-Learning. <br>
+    I have experience in UI/UX Design ,Front-End Development ,Machine-Learning. <br>
     <br>
     Find me on the Internet: <br>
     <a href="https://twitter.com/avats101">Twitter</a> | 
