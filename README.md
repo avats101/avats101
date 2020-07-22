@@ -13,20 +13,20 @@ I am a student, currently studying in Vellore Institute of Technology. From very
   - C/C++
   - Java
 - **Frontend Development**
-  - HTML, CSS and Javascript :white_check_mark:
-  - Bootstrap :white_check_mark:
-  -jQuery :white_check_mark:
+  - HTML, CSS and Javascript 
+  - Bootstrap 
+  - jQuery 
 - **Machine-Learning**
-  - Natural Language Processing :white_check_mark:
-  - Regression :white_check_mark:
-  - Classification :white_check_mark:
-  - Clustering :white_check_mark:
-  - LSTM :white_check_mark:
+  - Natural Language Processing
+  - Regression
+  - Classification
+  - Clustering
+  - LSTM 
 - **Deep-Learning**
-  - CNN :white_check_mark:
-  - ANN :white_check_mark:
+  - CNN 
+  - ANN 
 - **Augmented-Reality**
-  - Basics of ARCore:white_check_mark:
+  - Basics of ARCore
   
 ## What I want to do next :thinking:
   - Learn more of Frontend Development.
