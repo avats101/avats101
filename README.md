@@ -36,7 +36,7 @@ I am a student, currently studying in Vellore Institute of Technology. From very
   - Unlock the secret to the universe :rofl:
 
 ## Reach me 
-<center>
+
 |                                                                                     <a href="https://github.com/avats101"><img src="https://raw.githubusercontent.com/avats101/avats101/master/Aryan.png" width=170px height=165px /></a>                                                                                         |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                                                        **[Aryan Vats](https://avatars1.githubusercontent.com/u/53526065?s=400&u=5f5f1fa37820e14ad78aa6464254714e966f83f8&v=4)**                                                                                                                                        |
@@ -44,5 +44,4 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 ### Interesting stats
 [![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=avats101&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=233242 )](https://github.com/avats101)
 
-</center>
 Thanks for stopping by! 😁
