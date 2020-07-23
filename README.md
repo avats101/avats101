@@ -1,7 +1,7 @@
 # Hi there! Welcome to my github! 👋
 
 <div align="center">
-	<img src="">
+	<img src="https://raw.githubusercontent.com/avats101/avats101/master/ezgif.com-video-to-gif.gif">
 </div>
 
 ## About me :mortar_board:
