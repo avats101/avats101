@@ -29,7 +29,7 @@ I am a student, currently studying in Vellore Institute of Technology. From very
   - Basics of ARCore
   
 ## What I want to do next :thinking:
-  - Learn more of Frontend Development.
+  - Learn more of Frontend Development(React).
   - Learn Backend Development (to become a Full-Stack developer)
   - Learn more of APSpark,ARCore.
   - Learn more of Deep-Learning.
