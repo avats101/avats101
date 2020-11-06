@@ -11,7 +11,6 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 - **Competitive Programming**
   - Python ❤️
   - C/C++
-  - Java
 - **Frontend Development**
   - HTML, CSS and Bootstrap
   - Vanilla Javascript, jQuery 
@@ -30,9 +29,10 @@ I am a student, currently studying in Vellore Institute of Technology. From very
   - Working with SparkAR models
 ## What I want to do next :thinking:
   - Learn more of Frontend Development(React).
-  - Learn Backend Development (to become a Full-Stack developer)
+  - Learn Backend Development (Flask,NodeJS,php,MongoDB)
   - Learn more of APSpark,ARCore.
-  - Learn more of Deep-Learning.
+  - Getting started with Blockchain and understanding how DeFi works. 
+  - Dirty my hands with more Deep-Learning models.
   - Unlock the secret to the universe :rofl:
 
 ## Reach me 
