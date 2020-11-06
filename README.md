@@ -13,9 +13,9 @@ I am a student, currently studying in Vellore Institute of Technology. From very
   - C/C++
   - Java
 - **Frontend Development**
-  - HTML, CSS and Javascript 
-  - Bootstrap 
-  - jQuery 
+  - HTML, CSS and Bootstrap
+  - Vanilla Javascript, jQuery 
+  - React
 - **Machine-Learning**
   - Natural Language Processing
   - Regression
@@ -27,7 +27,7 @@ I am a student, currently studying in Vellore Institute of Technology. From very
   - ANN 
 - **Augmented-Reality**
   - Basics of ARCore
-  
+  - Working with SparkAR models
 ## What I want to do next :thinking:
   - Learn more of Frontend Development(React).
   - Learn Backend Development (to become a Full-Stack developer)
