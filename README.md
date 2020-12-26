@@ -11,28 +11,21 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 - **Competitive Programming**
   - Python ❤️
   - C/C++
-- **Frontend Development**
-  - HTML, CSS and Bootstrap
-  - Vanilla Javascript, jQuery 
+- **Web Development**
+  - HTML, CSS and Bootstrap,Vanilla Javascript, jQuery
   - React
+  - PHP,MySQL
 - **Machine-Learning**
-  - Natural Language Processing
-  - Regression
-  - Classification
-  - Clustering
-  - LSTM 
-- **Deep-Learning**
-  - CNN 
-  - ANN 
+  - Python
 - **Augmented-Reality**
   - Basics of ARCore
   - Working with SparkAR models
 ## What I want to do next :thinking:
-  - Learn more of Frontend Development(React).
+  - Learn more of Advanced functions in React.
   - Learn Backend Development (Flask,NodeJS,php,MongoDB)
   - Learn more of APSpark,ARCore.
   - Getting started with Blockchain and understanding how DeFi works. 
-  - Dirty my hands with more Deep-Learning models.
+  - Dirty my hands with more of Deep-Learning models.
   - Unlock the secret to the universe :rofl:
 
 ## Reach me 
