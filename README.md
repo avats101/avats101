@@ -8,9 +8,6 @@
 I am a student, currently studying in Vellore Institute of Technology. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
 
 ## What I know :computer:
-- **Competitive Programming**
-  - Python ❤️
-  - C/C++
 - **Web Development**
   - HTML, CSS and Bootstrap,Vanilla Javascript, jQuery
   - React
@@ -20,6 +17,9 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 - **Augmented-Reality**
   - Basics of ARCore
   - Working with SparkAR models
+- **Competitive Programming**
+  - Python ❤️
+  - C/C++
 ## What I want to do next :thinking:
   - Learn more of Advanced functions in React.
   - Learn Backend Development (Flask,NodeJS,php,MongoDB)
