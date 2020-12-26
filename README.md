@@ -9,7 +9,7 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 
 ## What I know :computer:
 - **Web Development**
-  - HTML, CSS,Bootstrap,Vanilla Javascript, jQuery
+  - HTML,CSS,Bootstrap,Vanilla JS and jQuery
   - React
   - PHP,MySQL
 - **Machine-Learning**
