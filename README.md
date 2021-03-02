@@ -12,7 +12,7 @@ I am a student, currently studying in Vellore Institute of Technology. From very
   - HTML,CSS,Bootstrap,Vanilla JS and jQuery
   - React
   - PHP,MySQL
-- **Machine-Learning**
+- **Machine-Learning and Deep Learning**
   - Python
 - **Augmented-Reality**
   - Basics of ARCore
