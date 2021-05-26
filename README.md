@@ -4,30 +4,6 @@
 	<img src="https://raw.githubusercontent.com/avats101/avats101/master/ezgif.com-video-to-gif.gif">
 </div>
 
-## About me :mortar_board:
-I am a student, currently studying in Vellore Institute of Technology. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
-
-## What I know :computer:
-- **Web Development**
-  - HTML,CSS,Bootstrap,Vanilla JS and jQuery
-  - React
-  - PHP,MySQL
-- **Machine-Learning and Deep Learning**
-  - Python
-- **Augmented-Reality**
-  - Basics of ARCore
-  - Working with SparkAR models
-- **Competitive Programming**
-  - Python ❤️
-  - C/C++
-## What I want to do next :thinking:
-  - Learn more of Advanced functions in React.
-  - Learn Backend Development (Flask,NodeJS,php,MongoDB)
-  - Learn more of APSpark,ARCore.
-  - Getting started with Blockchain and understanding how DeFi works. 
-  - Dirty my hands with more of Deep-Learning models.
-  - Unlock the secret to the universe :rofl:
-
 ## Reach me 
 
 |                                                                                     <a href="https://github.com/avats101"><img src="https://raw.githubusercontent.com/avats101/avats101/master/Aryan.png" width=170px height=165px /></a>                                                                                         |
@@ -37,4 +13,3 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 ### Interesting stats
 [![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=avats101&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=233242 )](https://github.com/avats101)
 
-Thanks for stopping by! 😁
