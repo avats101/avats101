@@ -12,11 +12,6 @@
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     </a>
 <p>
-<a href="https://github.com/avats101">
-    <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=avats101&column=7&theme=onedark"/>
-    </p>
-</a>  
                                                                                  
 <a align="center" href="">
 <p align="center">
