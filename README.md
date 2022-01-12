@@ -1,24 +1,17 @@
-![](https://komarev.com/ghpvc/?username=avats101&color=green&label=Visitors)
-<a href="https://avats101.github.io">
+<p>Hey hey
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-</a>
-<div align="center">
-	<img src="https://raw.githubusercontent.com/avats101/avats101/master/ezgif.com-video-to-gif.gif">
-</div>
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </p>
+
+<div align="center"><img src="https://raw.githubusercontent.com/avats101/avats101/master/ezgif.com-video-to-gif.gif"></div>
 <br>
-<p align="center">
-    <a href="https://github.com/avats101">
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-    </a>
-<p>
-                                                                                 
-<a align="center" href="">
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=avats101&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avats101&layout=compact&theme=tokyonight" alt="languages" height="165">
-</p>
-</a>
+
+                                                                     
+## About me 🙋‍♂️
+ 
+a junior at VIT Vellore, highly into Machine Learning and Data Analytical projects. For hobbies I love trading NFTs, Cryptocurrency; Digital Sketching; Weight training; Watching Anime and Casual Gaming.
+
+
+## Reach me 
 
 <p align="center">
 
@@ -53,4 +46,20 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="avats101" height="20" width="20" />
 </a>
 
+</p> 
+
+### Interesting stats
+
+<a align="center" href="">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=avats101&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avats101&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p>
+</a>
+
+
+Thanks for stopping by! 😁
+
+![](https://komarev.com/ghpvc/?username=avats101&color=green&label=Visitors)
+
+
