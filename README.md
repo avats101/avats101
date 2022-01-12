@@ -6,11 +6,10 @@
 <br>
 
                                                                      
-## About me 🙋‍♂️
+## About me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  
 a junior at VIT Vellore, highly into Machine Learning and Data Analytical projects. For hobbies I love trading NFTs, Cryptocurrency; Digital Sketching; Weight training; Watching Anime and Casual Gaming.
 
-### Interesting stats
 
 <a align="center" href="">
 <p align="center">
