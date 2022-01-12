@@ -10,8 +10,19 @@
  
 a junior at VIT Vellore, highly into Machine Learning and Data Analytical projects. For hobbies I love trading NFTs, Cryptocurrency; Digital Sketching; Weight training; Watching Anime and Casual Gaming.
 
+### Interesting stats
 
-## Reach me 
+<a align="center" href="">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=avats101&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avats101&layout=compact&theme=tokyonight" alt="languages" height="165">
+</p>
+</a>
+
+
+Thanks for stopping by! 😁
+
+![](https://komarev.com/ghpvc/?username=avats101&color=green&label=Visitors)
 
 <p align="center">
 
@@ -47,19 +58,3 @@ a junior at VIT Vellore, highly into Machine Learning and Data Analytical projec
 </a>
 
 </p> 
-
-### Interesting stats
-
-<a align="center" href="">
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=avats101&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avats101&layout=compact&theme=tokyonight" alt="languages" height="165">
-</p>
-</a>
-
-
-Thanks for stopping by! 😁
-
-![](https://komarev.com/ghpvc/?username=avats101&color=green&label=Visitors)
-
-
