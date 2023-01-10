@@ -25,7 +25,7 @@ Thanks for stopping by! 😁
 
 <p align="center">
 
-<a href="https://avats101.github.io/">
+<a href="https://avats101.github.io/" target="blank">
 <img align="center" src="https://www.svgrepo.com/show/447845/website-click.svg" alt="@avats101" height="20" width="20" />
 </a>
 
