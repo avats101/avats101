@@ -13,7 +13,6 @@ a senior at VIT Vellore, highly into Machine Learning and Data Analytical projec
 
 <a align="center" href="">
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=avats101&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avats101&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p>
 </a>
