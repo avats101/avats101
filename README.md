@@ -8,7 +8,7 @@
                                                                      
 ## About me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  
-a senior at VIT Vellore, highly into Machine Learning and Data Analytical projects. For hobbies I love trading NFTs, Cryptocurrency; Digital Sketching; Weight training; Watching Anime and Casual Gaming.
+USC Viterbi grad, highly into Machine Learning and Data Analytical projects. For hobbies I love playing badminton, football; hiking; Weight training; Digital Sketching and Casual Gaming.
 
 
 <a align="center" href="">
