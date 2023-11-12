@@ -8,7 +8,7 @@
                                                                      
 ## About me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  
-USC Viterbi grad, highly into Machine Learning and Data Analytical projects. For hobbies I love playing badminton, football; hiking; Weight training; Digital Sketching and Casual Gaming.
+USC grad, highly into Machine Learning and Data Analytical projects. For hobbies I love playing badminton, football; hiking; Weight training; Digital Sketching and Casual Gaming.
 
 
 <a align="center" href="">
