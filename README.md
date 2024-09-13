@@ -1,16 +1,14 @@
-## Hi there 👋
+                                                                     
+## About me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ 
+non
 
-<!--
-**avats101/avats101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a align="center" href="">
+<p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avats101&layout=compact&theme=tokyonight" alt="languages" height="165">
+</p>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![](https://komarev.com/ghpvc/?username=avats101&color=green&label=Visitors)
